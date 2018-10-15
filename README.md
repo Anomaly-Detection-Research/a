@@ -15,9 +15,9 @@
 |:-:|---|---|---|---|---|---|
 |[1](/2018-october/1.md)|[2](/2018-october/2.md)|[3](/2018-october/3.md)|[4](/2018-october/4.md)|[5](/2018-october/5.md)|[6](/2018-october/6.md)|[7](/2018-october/7.md)|
 |[8](/2018-october/8.md)|[9](/2018-october/9.md)|[10](/2018-october/10.md)|[11](/2018-october/11.md)|[12](/2018-october/12.md)|[13](/2018-october/13.md)|[14](/2018-october/14.md)|
-|15|16|17|18|19|20|21|
-|22|23|24|25|26|27|28|
-|29|30|31|||||  
+|[15](/2018-october/15.md)|[16](/2018-october/16.md)|[17](/2018-october/17.md)|[18](/2018-october/18.md)|[19](/2018-october/19.md)|[20](/2018-october/20.md)|[21](/2018-october/21.md)|
+|[22](/2018-october/22.md)|[23](/2018-october/23.md)|[24](/2018-october/24.md)|[25](/2018-october/25.md)|[26](/2018-october/26.md)|[27](/2018-october/27.md)|[28](/2018-october/28.md)|
+|[29](/2018-october/29.md)|[30](/2018-october/30.md)|[31](/2018-october/31.md)|||||  
 
 # November
 
